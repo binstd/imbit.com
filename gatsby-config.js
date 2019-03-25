@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `ImBit官网`,
+    description: `imbit是一个区块链数字身份系统`,
+    author: `@luz`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -18,13 +18,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-default`,
+        name: `imbit`,
         short_name: `starter`,
         start_url: `/`,
         background_color: `#663399`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/imbit-logo.png`, // This path is relative to the root of the site.
       },
     },
     {
@@ -37,9 +37,9 @@ module.exports = {
                 },
                 palette: {
                   primary: {
-                    light: '#2196f3',
-                    main: '#2196f3',
-                    dark: '#2196f3',
+                    light: '#308EFF',
+                    main: '#308EFF',
+                    dark: '#308EFF',
                     contrastText: '#fff',
                   },
                   secondary: {

@@ -60,7 +60,7 @@ import MoreIcon from '@material-ui/icons/MoreVert';
 import LensIcon from '@material-ui/icons/Lens';
 // import { Link } from "gatsby";
 import Link from '@material-ui/core/Link';
-import imBitlogo from '../images/imBitlogo.svg';
+import imBitlogo from '../images/imbit-logo.png';
 const styles = theme => ({
 
   root: {
@@ -250,7 +250,7 @@ const ButtonAppBar = class ButtonAppBar extends React.Component{
                         {/* <IconButton className={classes.menuButton} color="inherit" aria-label="Menu"> */}
                             <img
                                 src={imBitlogo}
-                                style={{ height: 30, width: 108, margin: '0 35px 5px 0' }}
+                                style={{ height: 50, width: 50, margin: '0 35px 5px 0' }}
                             />
                         {/* </IconButton> */}
                         </div>
@@ -258,7 +258,7 @@ const ButtonAppBar = class ButtonAppBar extends React.Component{
                             <Button color="inherit"  onClick={() => navigate(`/`)} >首页</Button>
                           
                             <Link
-                                href="https://imbit-dapp-demo.netlify.com/"
+                                href="https://demo.imbit.cn"
                                 target="_blank"
                                 rel ="noopener"
                                 style={{

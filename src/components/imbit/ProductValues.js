@@ -64,7 +64,7 @@ function ProductValues(props) {
               </Typography>
               <Typography variant="subtitle1">
                 {'IMbit将个人身份归还给个人掌控，以区块链技术为核心，用户自己管理隐私数字，只授权自己想授权。'}
-                {'迎接Web3.0,支持身份登陆授权,认证，数据授权，批准交易等自主控制功能。'}
+                {'迎接Web3.0，支持身份登录授权，认证，数据授权，批准交易等自主控制功能。'}
               </Typography>
             </div>
           </Grid>
@@ -80,7 +80,7 @@ function ProductValues(props) {
                 扫码&深度链接
               </Typography>
               <Typography variant="subtitle1">
-                {'通过使用ImBit,app扫二维码,pc上的Dapp的操作经过手机授权&确认，确保安全,不同app之间支持深度链接跳转app确认授权。'}
+                {'通过使用ImBit，app扫二维码，pc上的Dapp的操作经过手机授权&确认，确保安全，不同app之间支持深度链接跳转app确认授权。'}
                 {'用户可以与任何Dapp交互而不包括其私钥，所有授权都通过手机确认。'}
               </Typography>
             </div>

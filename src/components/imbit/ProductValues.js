@@ -80,7 +80,7 @@ function ProductValues(props) {
                 扫码&深度链接
               </Typography>
               <Typography variant="subtitle1">
-                {'通过扫二维码，使用walletconnect协议,将pc上的Dapps连接到移动imbit客户端,不同app之间支持深度链接跳转app确认授权。'}
+                {'通过使用ImBit,app扫二维码,pc上的Dapp的操作经过手机授权&确认，确保安全,不同app之间支持深度链接跳转app确认授权。'}
                 {'用户可以与任何Dapp交互而不包括其私钥，所有授权都通过手机确认。'}
               </Typography>
             </div>

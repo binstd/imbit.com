@@ -29,34 +29,6 @@ export default IndexPage
 
 
 
-// import React, { Component } from 'react';
-// import MaLayout from '../components/MaLayout'
-// import ProductSmokingHero from '../components/imbit/ProductSmokingHero';
-// import ProductHero from '../components/imbit/ProductHero';
-// import ProductValues from '../components/imbit/ProductValues';
-
-// import Helmet from 'react-helmet';
-// const ImbitPage = class ImbitPage extends Component {
-//     render() { 
-//         return ( 
-//             <MaLayout>
-//                      <Helmet>
-//                         <title>IMbit-Web3.0时代数字身份系统,自主控制授权你的身份数据 </title>
-//                      </Helmet>
-                    
-//                         <div style={{marginTop: '50px'}}>
-//                             <ProductHero  />
-//                             <ProductValues />
-                       
-//                             <ProductSmokingHero />
-//                             {/* <Footer />  */}
-//                         </div>
-//             </MaLayout>   
-//         ) 
-//     }
-// };
-// export default ImbitPage
-
 
 
 

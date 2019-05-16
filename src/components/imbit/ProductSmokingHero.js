@@ -49,7 +49,7 @@ function ProductSmokingHero(props) {
       </Typography>
             <div className={classes.ourWith}>
                 <img src="https://blockluz-1253389096.cos.ap-beijing.myqcloud.com/blockman/proginn_logo_680x450.png" className={classes.buoy} alt="buoy" />
-                <img src="https://blockluz-1253389096.cos.ap-beijing.myqcloud.com/blockman/footer-logo.png" className={classes.buoy} alt="buoy" />
+                <img src="https://blockluz-1253389096.cos.ap-beijing.myqcloud.com/blockman/waltonchain-logo.png" className={classes.buoy} alt="buoy" />
             </div>
         </LayoutBody>
     );

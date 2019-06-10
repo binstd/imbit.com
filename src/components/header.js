@@ -268,7 +268,7 @@ const ButtonAppBar = class ButtonAppBar extends React.Component{
                             >
                                  <Button color="inherit" >demo</Button>
                              </Link>
-                             <Link href="https://www.binstd.com/" 
+                             <Link href="https://www.binstd.org/" 
                                 target="_blank"
                                 rel ="noopener"
                                 style={{
